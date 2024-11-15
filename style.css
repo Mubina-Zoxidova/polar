@@ -1,0 +1,300 @@
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: #F2CEDA;
+    width: 100%;
+    height: 100vh;
+}
+.img{
+    margin-left: 245px;
+    margin-top: 10px;
+
+}
+.p{
+    display: inline-block;
+    color: #D23166;
+    font-weight: 700;
+    font-size: 15px;
+    padding-left: 266px;
+}
+p{
+    display: inline-block;
+    color: #150101;
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 40px;
+}
+.button{
+    background-color: #D23166;
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 172px;
+}
+h6{
+    font-weight: 500;
+    font-size: 14px;
+    color:  #0F0101;
+    padding-left: 254px;
+    padding-top: 196px;
+}
+.h1{
+    font-weight: 400;
+    font-size: 57px;
+    padding-left: 254px;
+    padding-top: 6px;
+}
+.pp{
+    padding-left: 254px;
+    padding-top: 35px;
+}
+.buttonn{
+    background-color: #D23166;
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    border: none;
+    margin-left: 255px;
+    margin-top: 50px;
+}
+.png{
+    position: absolute;
+    left: 900px;
+    top: 150px;
+}
+.card1,.card2,.card3,.card4{
+    display: inline-block;
+    width: 250px;
+    height: 200px;
+    border-radius: 7px;
+    background-color: white;
+    margin-left: 252px;
+    margin-top: 100px;
+}
+.group{
+    margin-left: 99px;
+    margin-top: 33px;
+}
+.car{
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    padding-left: 64px;
+    padding-top: 24px;
+}
+.last{
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+    padding-left: 26px;
+    padding-top: 9px;
+}
+.card2,.card3,.card4{
+    margin-left: 39px;
+}
+.container1{
+    width: 100%;
+    height: 544.5px;
+    background-color: #F8EDF0;
+}
+.brownn{
+    font-weight: 600;
+    font-size: 44.2px;
+    color: #150101;
+    padding-left: 253px;
+    padding-top: 141px;
+}
+.to{
+    font-weight: 400;
+    font-size: 16px;
+    color: #150101;
+    padding-left: 252px;
+    padding-top: 16px;
+}
+.se{
+    background-color: #D23166;
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 253px;
+    margin-top: 35px;
+}
+.nn{
+    position: absolute;
+    left: 900px;
+    top: 1000px;
+}
+.our{
+    font-weight: 600;
+    font-size: 44.2px;
+    color: #150101;
+    padding-top: 137px;
+}
+.ice{
+   padding-left: 376px;
+   padding-top: 64px; 
+   font-weight: 500;
+    font-size: 18px;
+}
+.line{
+    padding-left: 370px;
+}
+.z{
+    font-weight: 300;
+    font-size: 18px;
+    color: #000000;
+}
+.rec{
+    margin-left: 251px;
+    margin-top: 50px;
+}
+.brown{
+    padding-left: 0px;
+    font-weight: 700;
+    font-size: 26px;
+    color: #000000;
+}
+.bon{
+    padding-top: 11px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    padding-left: 0;
+}
+.uno{
+    padding-top: 28px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+    padding-left: 0px;
+}
+del{
+    font-weight: 500;
+    font-size: 16px;
+    color: grey;
+    padding-left: 0px;
+}
+.buynow{
+    margin-top: 10px;
+    width: 165px;
+    height: 49px;
+    background-color: #D64374;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+}
+.card5,.card6{
+    position: absolute;
+    left: 1000px;
+    top: 2000px;
+}
+.chocolate{
+    padding-top: 121px;
+    padding-left: 523px;
+    font-weight: 700;
+    font-size: 26px;
+    color: #000000;
+}
+.au{
+    padding-top: 11px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    padding-left: 301px;
+}
+.unoo{
+    padding-top: 28px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+    padding-left: 611px;
+}
+.buynoww{
+    margin-top: 10px;
+    width: 165px;
+    height: 49px;
+    background-color: #D64374;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 580px;
+}
+.two{
+    position: absolute;
+    left: 900px;
+    top: 2400px;
+}
+.card6{
+    top: 2900px;
+}
+.ii{
+  margin-left: 249px;
+  margin-top: 80px;
+}
+.women{
+    position: absolute;
+    left: 254px;
+    top: 3400px;
+}
+.a{
+    font-weight: 500;
+    font-size:24px ;
+    color: #000000;
+    padding-left: 334px;
+    padding-top: 205px;
+}
+.l{
+    font-weight: 500;
+    font-size:12px ;
+    color: #000000;
+    padding-left: 394px;
+}
+.Lorem{
+    font-weight: 400;
+    font-size:16px ;
+    color: #000000;
+    padding-left: 275px;
+    padding-top: 50px;
+}
+.right{
+margin-top: 78px;
+margin-left: 252px;
+}
+.mask{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.three{
+    margin-left: 27px;
+}
+.four{
+    margin-left: 26px;
+}
+.arrow{
+    margin-left: 25px;
+}
+.ul{
+    position: absolute;
+    left: 821px;
+    top: 3212px;
+}
